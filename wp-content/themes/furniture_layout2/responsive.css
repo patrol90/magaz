@@ -1,0 +1,22 @@
+/**
+* 8.0 Media Queries
+ * ----------------------------------------------------------------------------
+ */
+@import url("../bigshopper/responsive.css");
+
+@media only screen and (max-width: 1450px){
+.categoty-link-cms .left-category-link, .categoty-link-cms .right-category-link{ width: 153px;}
+}
+@media only screen and (max-width: 1200px){
+.categoty-link-cms .left-category-link, .categoty-link-cms .right-category-link{ width: auto;margin-right: 0 !important;}
+.vc_row.subbanner , .vc_row.product-tab, .vc_row.home-product, .vc_row.categoty-link-cms { padding: 0 20px !important;}
+}
+@media only screen and (max-width: 767px) {
+.categoty-link-cms .vc_col-sm-3{  margin: 0 15px 18px 0;}
+}
+@media only screen and (max-width: 479px) {
+.subbanner1.vc_col-sm-3 ,.subbanner2.vc_col-sm-6,.subbanner3.vc_col-sm-3{  float: none;  text-align: center;  width: 100%;}
+.subbanner1.vc_col-sm-3 ,.subbanner2.vc_col-sm-6{ margin-bottom:20px;}
+.categoty-link-cms .left-category-link, .categoty-link-cms .right-category-link {  width: 100%;}
+.categoty-link-cms .vc_col-sm-3{  margin: 0 0 18px;}
+}

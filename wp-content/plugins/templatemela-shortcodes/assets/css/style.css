@@ -1,0 +1,292 @@
+
+.vc_element-icon {
+    background-size: 100% auto;
+}
+/* Accordion */
+.tm-item-accordion .tm-item-icon,
+.vc_element-icon.tm-vc-icon-accordion { background-image:url(../images/accordion.png);}
+
+/* Brand */
+.vc_element-icon.tm-vc-icon-brand { background-image:url(../images/brand.png);}
+.vc_element-icon.tm-vc-icon-brand-list { background-image:url(../images/brand-list.png);}
+
+/* woo products */
+.vc_element-icon.tm-vc-icon-woo_pro { background-image:url(../images/woo_pro.png);}
+
+/* FAQ */
+.vc_element-icon.tm-vc-icon-faq { background-image:url(../images/faq.png);}
+
+/* List */
+.vc_element-icon.tm-vc-icon-list { background-image:url(../images/list.png);}
+
+/* services */
+.vc_element-icon.tm-vc-icon-services { background-image:url(../images/services.png);}
+
+/* Button */
+.vc_element-icon.tm-vc-icon-button { background-image:url(../images/button.png);}
+
+/* Static Text */
+.vc_element-icon.tm-vc-icon-static-text { background-image:url(../images/static-text.png);}
+
+/* feature Content */
+.vc_element-icon.tm-vc-icon-feature_box { background-image:url(../images/feature_box.png);}
+
+/* Hot Product */
+.vc_element-icon.tm-vc-icon-hot_product { background-image:url(../images/hot_product.png);}
+
+/* Newslatter-text */
+.vc_element-icon.tm-vc-icon-newslatter-text { background-image:url(../images/newslatter-text.png);}
+
+/* Toggle */
+.vc_element-icon.tm-vc-icon-toggle { background-image:url(../images/toggle.png);}
+
+/* multiple-link */
+.vc_element-icon.tm-vc-icon-multiple-link { background-image:url(../images/multiple-link.png);}
+
+/* Title */
+.vc_element-icon.tm-vc-icon-fancy_heading { background-image:url(../images/fancy_heading.png);}
+
+/* Article box */
+.tm-item-article_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-article_box { background-image:url(../images/article_box.png);}
+
+/* Blockquote */
+.tm-item-blockquote .tm-item-icon,
+.vc_element-icon.tm-vc-icon-blockquote { background-image:url(../images/blockquote.png);}
+
+/* Blog */
+.tm-item-blog .tm-item-icon,
+.vc_element-icon.tm-vc-icon-blog { background-image:url(../images/blog.png);}
+
+/* Latest posts */
+.tm-item-blog_news .tm-item-icon,
+.vc_element-icon.tm-vc-icon-blog_news { background-image:url(../images/latest_posts.png);}
+
+/* Clients */
+.tm-item-clients .tm-item-icon,
+.vc_element-icon.tm-vc-icon-clients { background-image:url(../images/clients.png);}
+
+/* Call to action */
+.tm-item-call_to_action .tm-item-icon,
+.vc_element-icon.tm-vc-icon-call_to_action { background-image:url(../images/call_to_action.png);}
+
+/* Chart */
+.tm-item-chart .tm-item-icon,
+.vc_element-icon.tm-vc-icon-chart { background-image:url(../images/chart.png);}
+
+/* Code */
+.tm-item-code .tm-item-icon,
+.vc_element-icon.tm-vc-icon-code { background-image:url(../images/code.png);}
+
+/* Column */
+.tm-item-column .tm-item-icon { background-image:url(../images/column.png);}
+
+/* Contact box */
+.tm-item-contact_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-contact_box { background-image:url(../images/contact_box.png);}
+
+/* Content */
+li.tm-item-content .tm-item-icon,
+.tm-item.tm-item-content .tm-item-icon { background-image:url(../images/content.png);}
+
+/* Counter */
+.tm-item-counter .tm-item-icon,
+.vc_element-icon.tm-vc-icon-counter { background-image:url(../images/quick_fact.png);}
+
+/* Divider */
+.tm-item-divider .tm-item-icon { background-image:url(../images/divider.png);}
+
+/* Fancy heading */
+.tm-item-fancy_heading .tm-item-icon,
+.vc_element-icon.tm-vc-icon-fancy_heading { background-image:url(../images/fancy_heading.png);}
+
+/* Faq */
+.tm-item-faq .tm-item-icon { background-image:url(../images/faq.png);}
+
+/* Feature box */
+.tm-item-feature_box .tm-item-icon { background-image:url(../images/feature_box.png);}
+
+/* Icon box */
+.tm-item-icon_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-icon_box { background-image:url(../images/icon_box.png);}
+
+/* Image */
+.tm-item-image .tm-item-icon { background-image:url(../images/image.png);}
+
+/* Info box */
+.tm-item-info_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-info_box { background-image:url(../images/info_box.png);}
+
+/* Latest posts */
+.tm-item-latest_posts .tm-item-icon { background-image:url(../images/latest_posts.png);}
+
+/* Map */
+.tm-item-map .tm-item-icon,
+.vc_element-icon.tm-vc-icon-map { background-image:url(../images/map.png);}
+
+/* Offer */
+.tm-item-offer .tm-item-icon,
+.vc_element-icon.tm-vc-icon-offer { background-image:url(../images/offer.png);}
+
+/* Our team */
+.vc_element-icon.tm-vc-icon-team { background-image:url(../images/team.png);}
+
+/* Portfolio */
+.vc_element-icon.tm-vc-icon-portfolio { background-image:url(../images/portfolio.png);}
+
+/* Portfolio slider */
+.vc_element-icon.tm-vc-icon-portfolio_slider { background-image:url(../images/portfolio_slider.png);}
+
+/* Pricing item */
+.vc_element-icon.tm-vc-icon-pricing_item { background-image:url(../images/pricing_item.png);}
+
+/* Progress bars */
+.tm-item-progress_bars .tm-item-icon,
+.vc_element-icon.tm-vc-icon-progress_bars { background-image:url(../images/progress_bars.png);}
+
+/* Progress box */
+.tm-item-progress_box .tm-item-icon { background-image:url(../images/progress_box.png);}
+
+/* Quick fact*/
+.tm-item-quick_fact .tm-item-icon,
+.vc_element-icon.tm-vc-icon-quick_fact { background-image:url(../images/quick_fact.png);}
+
+/* Quick form */
+.tm-item-quick_form .tm-item-icon { background-image:url(../images/quick_form.png);}
+
+/* Tabs */
+.tm-item-tabs .tm-item-icon,
+.vc_element-icon.tm-vc-icon-tabs  { background-image:url(../images/tabs.png);}
+
+/* Testimonials */
+.tm-item-testimonials .tm-item-icon,
+.vc_element-icon.tm-vc-icon-testimonials { background-image:url(../images/testimonials.png);}
+
+/* Testimonials list */
+.tm-item-testimonials_list .tm-item-icon,
+.vc_element-icon.tm-vc-icon-testimonials_list { background-image:url(../images/testimonials_list.png);}
+
+/* Timeline */
+.tm-item-timeline .tm-item-icon { background-image:url(../images/timeline.png);}
+
+/* Video */
+.tm-item-video .tm-item-icon { background-image:url(../images/video.png);}
+
+/* Video box */
+.tm-item-video_box .tm-item-icon { background-image:url(../images/video_box.png);}
+
+/* Vimeo */
+.tm-item-vimeo .tm-item-icon { background-image:url(../images/vimeo.png);}
+
+/* Youtube */
+.tm-item-youtube .tm-item-icon { background-image:url(../images/youtube.png);}
+
+/* Blog slider */
+.tm-item-blog_slider .tm-item-icon,
+.vc_element-icon.tm-vc-icon-blog_slider { background-image:url(../images/blog_slider.png);}
+
+/* How it works */
+.tm-item-how_it_works .tm-item-icon,
+.vc_element-icon.tm-vc-icon-how_it_works { background-image:url(../images/how_it_works.png);}
+
+/* List */
+.tm-item-list .tm-item-icon,
+.vc_element-icon.tm-vc-icon-list { background-image:url(../images/list.png);}
+
+/* Opening hours */
+.tm-item-opening_hours .tm-item-icon,
+.vc_element-icon.tm-vc-icon-opening_hours { background-image:url(../images/opening_hours.png);}
+
+/* Photo box */
+.tm-item-photo_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-photo_box { background-image:url(../images/photo_box.png);}
+
+/* Portfolio grid */
+.tm-item-portfolio_grid .tm-item-icon,
+.vc_element-icon.tm-vc-icon-portfolio_grid { background-image:url(../images/portfolio_grid.png);}
+
+/* Promo box */
+.tm-item-promo_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-promo_box { background-image:url(../images/promo_box.png);}
+
+/* Shop slider */
+.tm-item-shop_slider .tm-item-icon { background-image:url(../images/shop_slider.png);}
+
+/* Visual */
+.tm-item-visual .tm-item-icon { background-image:url(../images/visual.png);}
+
+/* Trailer box */
+.tm-item-trailer_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-trailer_box { background-image:url(../images/trailer_box.png);}
+
+/* Sliding box */
+.tm-item-sliding_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-sliding_box { background-image:url(../images/sliding_box.png);}
+
+/* Slider */
+.tm-item-slider .tm-item-icon,
+.vc_element-icon.tm-vc-icon-slider { background-image:url(../images/slider.png);}
+
+/* Slider Plugin */
+.tm-item-slider_plugin .tm-item-icon { background-image:url(../images/slider_plugin.png);}
+
+/* Feature list */
+.tm-item-feature_list .tm-item-icon,
+.vc_element-icon.tm-vc-icon-feature_list { background-image:url(../images/feature_list.png);}
+
+/*  Our team list */
+.tm-item-our_team_list .tm-item-icon,
+.vc_element-icon.tm-vc-icon-our_team_list { background-image:url(../images/our_team_list.png);}
+
+/* Sidebar widget */
+.tm-item-sidebar_widget .tm-item-icon { background-image:url(../images/sidebar_widget.png);}
+
+/* Countdown */
+.tm-item-countdown .tm-item-icon,
+.vc_element-icon.tm-vc-icon-countdown { background-image:url(../images/countdown.png);}
+
+/* Clients slider */
+.tm-item-clients_slider .tm-item-icon,
+.vc_element-icon.tm-vc-icon-clients_slider { background-image:url(../images/clients_slider.png);}
+
+/* Flat box */
+.tm-item-flat_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-flat_box { background-image:url(../images/flat_box.png);}
+
+/* Offer thumb */
+.tm-item-offer_thumb .tm-item-icon { background-image:url(../images/offer_thumb.png);}
+
+/* Fancy divider */
+.tm-item-fancy_divider .tm-item-icon { background-image:url(../images/fancy_divider.png);}
+
+/* Hover box */
+.tm-item-hover_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-hover_box { background-image:url(../images/hover_box.png);}
+
+/* Zoom box */
+.tm-item-zoom_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-zoom_box { background-image:url(../images/hover_box.png);}
+
+/* Hover color */
+.tm-item-hover_color .tm-item-icon,
+.vc_element-icon.tm-vc-icon-hover_color { background-image:url(../images/hover_color.png);}
+
+/* Porltfolio Photo */
+.tm-item-portfolio_photo .tm-item-icon,
+.vc_element-icon.tm-vc-icon-portfolio_photo { background-image:url(../images/portfolio_photo.png);}
+
+/* Story Box */
+.tm-item-story_box .tm-item-icon,
+.vc_element-icon.tm-vc-icon-story_box { background-image:url(../images/article_box.png);}
+
+/* Before After */
+.tm-item-before_after .tm-item-icon,
+.vc_element-icon.tm-vc-icon-before_after { background-image:url(../images/before_after.png);}
+
+/* Button */
+.tm-item-button .tm-item-icon { background-image:url(../images/button.png);}
+
+/* Helper */
+.tm-item-helper .tm-item-icon,
+.vc_element-icon.tm-vc-icon-helper { background-image:url(../images/helper.png);}
+
