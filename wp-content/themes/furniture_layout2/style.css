@@ -57,7 +57,7 @@ Template: bigshopper
 .woocommerce ul.products li.product:hover .image-block, .woocommerce-page ul.products li.product:hover .image-block, .counter-products-carousel:hover .image-block,
 .hot-porduct .product:hover .image-block{ border:1px solid rgba(0, 0, 0, 0);}
 
-.header-cart .cart-contents,
+.header-cart .cart-contents .cart-qty,
 .header-search .woocommerce-product-search input[type="submit"], .header-search .search-form #searchsubmit{ background-color: #000000;}
 .header-search .woocommerce-product-search input[type="submit"]:hover, .header-search .search-form #searchsubmit:hover,
 #secondary .owl-theme .owl-buttons div:hover,
@@ -147,6 +147,3 @@ h3.entry-title a:hover,
 /********* foooter *********/
 .site-footer .footer-menu-links a:hover{color: #c2a773;}
 .sidebar-category  li > ul li a:hover:before{ color:#c2a773;}
-.header-cart .cart-contents {background:white;}
-#primary .gridlist-toggle,#content > div > form > select {display:none;}
-.sidebar-banner8 .text1 {font-size:45px;}

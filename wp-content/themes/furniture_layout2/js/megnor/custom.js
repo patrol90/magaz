@@ -42,7 +42,7 @@ function isotopAutoSet() {
             return false
         })
     });	
-	//jQuery('.woocommerce .products').jscroll();	
+		
     var n = jQuery.noConflict();
     n(function() {
         "use strict";
@@ -100,8 +100,7 @@ jQuery(document).ready(function() {
     jQuery(".primary-sidebar .calendar_wrap").addClass("toggle-block");
 	jQuery(".primary-sidebar .widget select").addClass("toggle-block");
 	jQuery(".postform").addClass("toggle-block");
-	//jQuery(".primary-sidebar .woocommerce-product-search,.primary-sidebar #searchform").addClass("toggle-block");
-    jQuery(".primary-sidebar .price_slider_wrapper").addClass("toggle-block");    
+	jQuery(".primary-sidebar .price_slider_wrapper").addClass("toggle-block");    
     jQuery(".tagcloud").addClass("toggle-block");
 	jQuery(".primary-sidebar .widget ul,.primary-sidebar .menu-menu-container").addClass("toggle-block");
 	jQuery(".product-categories,ul.sidebar-category-inner").addClass("toggle-block");
@@ -818,7 +817,7 @@ jQuery(document).ready(function(){  "use strict";top_banner();});
 
 jQuery(window).load(function() {
     "use strict";
-  	jQuery(".products .container-inner .product-detail-wrapper").find(".add_to_cart_button,.product_type_external,.product_type_grouped").each(function(i){
+  	jQuery(".products .container-inner .product-detail-wrapper").find(".add_to_cart_button,.product_type_external,.product_type_grouped,.product_type_simple").each(function(i){
 		jQuery(this).appendTo(jQuery(this).parent().parent().parent().find(".product-block-hover"));
 	});
 	jQuery(".products .container-inner .product-detail-wrapper").find(".yith-wcqv-button").each(function(i){
@@ -851,7 +850,7 @@ jQuery(this).html(
 '<span class="timebox day"><span class="timebox-inner"><strong>'+event.strftime('%D')+'</strong>days</span></span><span class="timebox hour"><span class="timebox-inner"><strong>'+event.strftime('%H')+'</strong>hrs</span></span><span class="timebox minute"><span class="timebox-inner"><strong>'+event.strftime('%M')+'</strong>mins</span></span><span class="timebox second"><span class="timebox-inner"><strong>'+event.strftime('%S')+'</strong>secs</span></span>'
 );
 });
-//jQuery(this).countdown('stop');
+
 });
 }
 jQuery(window).load(function() {
