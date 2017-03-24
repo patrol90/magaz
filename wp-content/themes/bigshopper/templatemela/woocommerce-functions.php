@@ -12,7 +12,7 @@ function woocommerce_header_add_to_cart_fragment( $fragments ) {
 	global $woocommerce;	
 	ob_start();	
 	?>
-<a class="cart-contents" href="<?php echo esc_url($woocommerce->cart->get_cart_url()); ?>" title="<?php esc_html_e('View your shopping cart', 'bigshopper'); ?>"><div class="cart-qty"><?php echo sprintf(_n('%d', '%d', $woocommerce->cart->cart_contents_count, 'bigshopper'), $woocommerce->cart->cart_contents_count);?></div><div class="cart-price"><span class="label"><?php esc_html_e('Shopping Cart', 'bigshopper'); ?></span><?php echo translate($woocommerce->cart->get_cart_total()); ?></div></a>
+<a class="cart-contents" href="<?php echo esc_url($woocommerce->cart->get_cart_url()); ?>" title="<?php esc_html_e('View your shopping cart', 'bigshopper'); ?>"><div class="cart-qty"><?php echo sprintf(_n('%d', '%d', $woocommerce->cart->cart_contents_count, 'bigshopper'), $woocommerce->cart->cart_contents_count);?></div><div class="cart-price"><span class="label"><?php esc_html_e('Корзина', 'bigshopper'); ?></span><?php echo translate($woocommerce->cart->get_cart_total()); ?></div></a>
 <?php	
 	$fragments['a.cart-contents'] = ob_get_clean();	
 	return $fragments;	

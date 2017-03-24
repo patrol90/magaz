@@ -46,14 +46,14 @@ class TmAdvanceSearch extends WP_Widget
 								 'hide_empty'   => $empty
 						  );
 							$all_categories = get_categories( $args ); ?>
-								<option value="<?php echo esc_html_e( '', 'bigshopper' );?>" selected="selected"><?php echo esc_html_e( 'All Categories', 'bigshopper' ); ?></option>
+								<option value="<?php echo esc_html_e( '', 'bigshopper' );?>" selected="selected"><?php echo esc_html_e( 'Все категории', 'bigshopper' ); ?></option>
 						<?php foreach ($all_categories as $cat) {   ?>
 								<option value="<?php echo esc_attr($cat->slug); ?>" <?php if(isset($_GET['product_cat']) && $_GET['product_cat'] == $cat->slug){ echo esc_attr("selected='selected'");  } ?>><?php echo esc_attr($cat->name);?></option>
 						<?php } ?>
 				</select>    
-				<input type="search" class="search-field" placeholder="<?php echo esc_attr_x( 'Search Products&hellip;', 'placeholder', 'bigshopper' ); ?>" value="<?php echo esc_attr(get_search_query()); ?>" name="s" title="<?php echo esc_attr_x( 'Search for:', 'label', 'bigshopper' ); ?>" />
+				<input type="search" class="search-field" placeholder="<?php echo esc_attr_x( 'Найти товар&hellip;', 'placeholder', 'bigshopper' ); ?>" value="<?php echo esc_attr(get_search_query()); ?>" name="s" title="<?php echo esc_attr_x( 'Search for:', 'label', 'bigshopper' ); ?>" />
 				<input type="hidden" name="post_type" value="product" />
-				<input type="submit" value="<?php echo esc_attr_x( 'Search', 'submit button', 'bigshopper' ); ?>" />
+				<input type="submit" value="<?php echo esc_attr_x( 'Найти', 'submit button', 'bigshopper' ); ?>" />
 			</form>
 	<?php echo balanceTags($after_widget);
 	}
