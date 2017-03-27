@@ -262,7 +262,7 @@ function tm_string_limit_words($string, $word_limit)
  * @return string "Continue Reading" link
  */
 function tm_continue_reading_link() {
-	return ' <a class="read-more-link" href="'.esc_url(get_permalink()) . '">' . esc_html__( 'Read More', 'bigshopper' ) . '</a>';
+	return ' <a class="read-more-link" href="'.esc_url(get_permalink()) . '">' . esc_html__( 'Читать далее', 'bigshopper' ) . '</a>';
 }
 add_filter( 'excerpt_length', 'tm_excerpt_length' );
 /**
@@ -430,7 +430,7 @@ function tm_excerpt($limit)
       $excerpt = explode(' ', tm_strip_images(strip_tags(get_the_excerpt())), $limit);
       if (count($excerpt)>=$limit) {
         array_pop($excerpt);
-        $excerpt = implode(" ",$excerpt).'&nbsp;.<div class="read-more"><a class="read-more-link" href="'.esc_url(get_permalink()).'">'.esc_html__( 'Read More' , 'bigshopper' ).'&nbsp;<i class="fa fa-angle-right"></i></a></div>';
+        $excerpt = implode(" ",$excerpt).'&nbsp;.<div class="read-more"><a class="read-more-link" href="'.esc_url(get_permalink()).'">'.esc_html__( 'Читать далее' , 'bigshopper' ).'&nbsp;<i class="fa fa-angle-right"></i></a></div>';
       } else {
         $excerpt = implode(" ",$excerpt);
       } 
@@ -792,7 +792,7 @@ function tm_comments_link() {
 	//comments open
 	if ( comments_open() && ! is_single() ) :
 	echo '<div class="meta-inner"><span class="comments-link"> <i class="fa fa-comment-o"></i>';
-	comments_popup_link( esc_html__( 'Leave a Comment', 'bigshopper' ), esc_html__( '1 Comment', 'bigshopper' ), esc_html__( '% Comments', 'bigshopper' ) );
+	comments_popup_link( esc_html__( 'Оставить комментарий', 'bigshopper' ), esc_html__( '1 комментарий', 'bigshopper' ), esc_html__( '% комментариев', 'bigshopper' ) );
 	echo '</span></div>';
 	endif; 
 }

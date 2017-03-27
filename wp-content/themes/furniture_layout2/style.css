@@ -147,3 +147,4 @@ h3.entry-title a:hover,
 /********* foooter *********/
 .site-footer .footer-menu-links a:hover{color: #c2a773;}
 .sidebar-category  li > ul li a:hover:before{ color:#c2a773;}
+#masthead > div > div > div.header-top.navigation-fix > div > div.header-right > div.topbar-link > div > div > li > a {display:none;}
