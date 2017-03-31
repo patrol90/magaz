@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel"><OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office"><Colors><Color><Index>3</Index><RGB>#c0c0c0</RGB></Color></Colors></OfficeDocumentSettings><ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel"><WindowHeight>9000</WindowHeight><WindowWidth>13860</WindowWidth><WindowTopX>240</WindowTopX><WindowTopY>75</WindowTopY><ProtectStructure>False</ProtectStructure><ProtectWindows>False</ProtectWindows></ExcelWorkbook><Styles><Style ss:ID="Default" ss:Name="Default"/><Style ss:ID="Result" ss:Name="Result"><Font ss:Bold="1" ss:Italic="1" ss:Underline="Single"/></Style><Style ss:ID="Result2" ss:Name="Result2"><Font ss:Bold="1" ss:Italic="1" ss:Underline="Single"/></Style><Style ss:ID="Heading" ss:Name="Heading"><Font ss:Bold="1" ss:Italic="1" ss:Size="16"/></Style><Style ss:ID="Heading1" ss:Name="Heading1"><Font ss:Bold="1" ss:Italic="1" ss:Size="16"/></Style><Style ss:ID="co1"/><Style ss:ID="co2"/><Style ss:ID="co3"/><Style ss:ID="co4"/><Style ss:ID="co5"/><Style ss:ID="co6"/><Style ss:ID="co7"/><Style ss:ID="co8"/><Style ss:ID="co9"/><Style ss:ID="ta1"/></Styles><ss:Worksheet ss:Name="Лист1"><Table ss:StyleID="ta1"><Column ss:Width="36.3118"/><Column ss:Width="370.6016"/><Column ss:Width="189.6945"/><Column ss:Width="112.5921"/><Column ss:Width="40.989"/><Column ss:Width="32.3433"/><Column ss:Width="1451.3952"/><Column ss:Width="1268.1637"/><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10001</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D5015 Дуб Бастиль</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/_thumb_/5015DUB_Bastil-Grunhof.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10002</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D4851 Орех Огайо</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/_thumb_/4851Oreh_Ohaio_Grunhof.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10003</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D3944 Дуб Вилетт</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/New/3944dub_vilett_ok-1.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10004</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D4850 Дуб Нео</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/_thumb_/4850DUB_Neo-Grunhof.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10005</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D4849 Дуб Кристалл</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/_thumb_/4849DUB_Kristall-Home-Grunhof.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10006</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D3479 Дуб Пикадилли</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/_thumb_/3479%20DUB_Picadilli_Grunhof.jpg</Data></Cell></Row><Row ss:Index="7" ss:Height="85.0394"><Cell><Data ss:Type="Number">10007</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String"> D8132 Белла Нота</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D8131%20%D0%A1%D0%B8%D0%BC%D1%84%D0%BE%D0%BD%D0%B8%D1%8F%20%D0%BC%D0%B0%D0%B3%D0%B8%D0%B8.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10008</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D1504 Дуб Ноче Краков</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D1504%20%D0%94%D1%83%D0%B1%20%D0%9D%D0%BE%D1%87%D0%B5%20%D0%9A%D1%80%D0%B0%D0%BA%D0%BE%D0%B2.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10009</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D2740 Дуб Дымчатый</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D2740%20%D0%94%D1%83%D0%B1%20%D0%94%D1%8B%D0%BC%D1%87%D0%B0%D1%82%D1%8B%D0%B9.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10010</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D3007 Ясень Стокгольмский</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D3007%20%D0%AF%D1%81%D0%B5%D0%BD%D1%8C%20%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D1%81%D0%BA%D0%B8%D0%B9.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10011</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D2987 Дуб Ретушированный</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D2987%20%D0%94%D1%83%D0%B1%20%D0%A0%D0%B5%D1%82%D1%83%D1%88%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10012</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D2873 Дуб Вейвлесс Белый</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D2873%20%D0%94%D1%83%D0%B1%20%D0%92%D0%B5%D0%B9%D0%B2%D0%BB%D0%B5%D1%81%D1%81%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10013</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D742 Дуб Шато</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D742%20%D0%94%D1%83%D0%B1%20%D0%A8%D0%B0%D1%82%D0%BE.jpg</Data></Cell></Row><Row ss:Index="14" ss:Height="85.0394"><Cell><Data ss:Type="Number">10014</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D644 Дуб Натуральный</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D644%20%D0%94%D1%83%D0%B1%20%D0%9D%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10015</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D2413 Дуб Беленый</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D2413%20%D0%94%D1%83%D0%B1%20%D0%91%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10016</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Grunhof (32кл.)</Data></Cell><Cell><Data ss:Type="String">D2304 Дуб Ахад</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: натуральное дерево (W)
+Гарантия, лет 15
+Площадь пачки, м2 2,1307</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Grunhoff/D2304%20%D0%94%D1%83%D0%B1%20%D0%90%D1%85%D0%B0%D0%B4.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10017</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;ECO-TEC (32 кл.)</Data></Cell><Cell><Data ss:Type="String">D3858 Дуб Парана</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС4
+Класс применения: 32
+Размер доски, мм: 1380х193х7
+Количество в упаковке, шт: 9
+Поверхность: WG - структура дерева
+Площадь пачки: 2,3967 м2
+Метров квадратных в паллете: 143,802 м2</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/ECO-TEC/_thumb_/3858DUB_Sherwood_Eco-Tec.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10020</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;ECO-TEC (32 кл.)</Data></Cell><Cell><Data ss:Type="String">D3529 Дуб Олинда</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС4
+Класс применения: 32
+Размер доски, мм: 1380х193х7
+Количество в упаковке, шт: 9
+Поверхность: WG - структура дерева
+Площадь пачки: 2,3967 м2
+Метров квадратных в паллете: 143,802 м2</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/ECO-TEC/_thumb_/3529DUB_Olinda_%20Eco-Tec.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10021</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;ECO-TEC (32 кл.)</Data></Cell><Cell><Data ss:Type="String">D2079 Дуб Миллениум</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв</Data></Cell><Cell><Data ss:Type="Number">11</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС4
+Класс применения: 32
+Размер доски, мм: 1380х193х7
+Количество в упаковке, шт: 9
+Поверхность: WG - структура дерева
+Площадь пачки: 2,3967 м2
+Метров квадратных в паллете: 143,802 м2</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/ECO-TEC/dubmillenium_600x600.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10022</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;ECO-TEC (32 кл.)</Data></Cell><Cell><Data ss:Type="String">D2081 Дуб Кофейный</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС4
+Класс применения: 32
+Размер доски, мм: 1380х193х7
+Количество в упаковке, шт: 9
+Поверхность: WG - структура дерева
+Площадь пачки: 2,3967 м2
+Метров квадратных в паллете: 143,802 м2</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/ECO-TEC/dubcofejnij_600x600.jpg</Data></Cell></Row><Row ss:Index="21" ss:Height="97.0016"><Cell><Data ss:Type="Number">10023</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;ECO-TEC (32 кл.)</Data></Cell><Cell><Data ss:Type="String">D2080 Дуб Сердания</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС4
+Класс применения: 32
+Размер доски, мм: 1380х193х7
+Количество в упаковке, шт: 9
+Поверхность: WG - структура дерева
+Площадь пачки: 2,3967 м2
+Метров квадратных в паллете: 143,802 м2</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/ECO-TEC/dubserdania_600x600.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10024</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;SymBio (33 кл.)</Data></Cell><Cell><Data ss:Type="String">D4644 Дуб Тоскана</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">13.2</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: MX глубокое структурное тиснение с типичным для дерева матово-глянцевым контрастом
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/SymBio/_thumb_/4644DUB_Toskana-Symbio.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10025</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;SymBio (33 кл.)</Data></Cell><Cell><Data ss:Type="String">D8146 Дуб Маджоре</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">13.2</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: MX глубокое структурное тиснение с типичным для дерева матово-глянцевым контрастом
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/news_images/%D0%94%D1%83%D0%B1%20%D0%9C%D0%B0%D0%B4%D0%B6%D0%BE%D1%80%D0%B5%20D8146.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10026</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;SymBio (33 кл.)</Data></Cell><Cell><Data ss:Type="String">D3478 Дуб Трентино</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">13.2</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: MX глубокое структурное тиснение с типичным для дерева матово-глянцевым контрастом
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/SymBio/_thumb_/3478DUB_Trentino-Symbio.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10027</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;SymBio (33 кл.)</Data></Cell><Cell><Data ss:Type="String"> 8127 Дуб Лигурия</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">13.2</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: MX глубокое структурное тиснение с типичным для дерева матово-глянцевым контрастом
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/SymBio/8127%20%D0%94%D1%83%D0%B1%20%D0%9B%D0%B0%D0%B3%D1%83%D1%80%D0%B8%D1%8F.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10028</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;SymBio (33 кл.)</Data></Cell><Cell><Data ss:Type="String">8136 Эмилия Романья</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">13.2</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: MX глубокое структурное тиснение с типичным для дерева матово-глянцевым контрастом
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/SymBio/8136%20%D0%94%D1%83%D0%B1%20%D0%AD%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%8C%D1%8F.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10029</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;SymBio (33 кл.)</Data></Cell><Cell><Data ss:Type="String">8149 Дуб Пьемонт</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">13.2</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: MX глубокое структурное тиснение с типичным для дерева матово-глянцевым контрастом
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/SymBio/8149%20%D0%94%D1%83%D0%B1%20%D0%9F%D1%8C%D0%B5%D0%BC%D0%BE%D0%BD%D1%82.jpg</Data></Cell></Row><Row ss:Index="28" ss:Height="97.0016"><Cell><Data ss:Type="Number">10030</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;SymBio (33 кл.)</Data></Cell><Cell><Data ss:Type="String">3168 Пино Леванте</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">13.2</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: MX глубокое структурное тиснение с типичным для дерева матово-глянцевым контрастом
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/SymBio/3168%20%D0%9F%D0%B8%D0%BD%D0%BE%20%D0%9B%D0%B5%D0%B2%D0%B0%D0%BD%D1%82%D0%B5.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10031</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;SymBio (33 кл.)</Data></Cell><Cell><Data ss:Type="String">2057 Дуб Адрия</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">13.2</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: MX глубокое структурное тиснение с типичным для дерева матово-глянцевым контрастом
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/SymBio/2057%20%D0%94%D1%83%D0%B1%20%D0%90%D0%B4%D1%80%D0%B8%D1%8F.jpg</Data></Cell></Row><Row ss:Height="61.1433"><Cell><Data ss:Type="Number">10032</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;De facto (33 кл.)
+</Data></Cell><Cell><Data ss:Type="String">D4841 Дуб Рубустус</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String"> </Data></Cell><Cell><Data ss:Type="Number">25.5</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х12
+Фаска 4V</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronostar/De%20facto/D4841%20%D0%94%D1%83%D0%B1%20%D0%A0%D0%BE%D0%B1%D1%83%D1%81%D1%82%D1%83%D1%81.jpg</Data></Cell></Row><Row ss:Height="61.1433"><Cell><Data ss:Type="Number">10033</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;De facto (33 кл.)</Data></Cell><Cell><Data ss:Type="String">D4845 Дуб Цетус</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">25.5</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х12
+Фаска 4V</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronostar/De%20facto/D4845%20%D0%94%D1%83%D0%B1%20%D0%A6%D0%B5%D1%82%D1%83%D1%81.jpg</Data></Cell></Row><Row ss:Height="61.1433"><Cell><Data ss:Type="Number">10034</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;De facto (33 кл.)</Data></Cell><Cell><Data ss:Type="String">D4844 Дуб Либра</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">25.5</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х12
+Фаска 4V</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronostar/De%20facto/D4844%20%D0%94%D1%83%D0%B1%20%D0%9B%D0%B8%D0%B1%D1%80%D0%B0.jpg</Data></Cell></Row><Row ss:Height="61.1433"><Cell><Data ss:Type="Number">10035</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;De facto (33 кл.)</Data></Cell><Cell><Data ss:Type="String">D4843 Дуб Таурус</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">25.5</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х12
+Фаска 4V</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronostar/De%20facto/D4843%20%D0%94%D1%83%D0%B1%20%D0%A2%D0%B0%D1%83%D1%80%D1%83%D1%81.jpg</Data></Cell></Row><Row ss:Height="61.1433"><Cell><Data ss:Type="Number">10036</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;De facto (33 кл.)</Data></Cell><Cell><Data ss:Type="String">D4842 Дуб Нобилис</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">25.5</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х12
+Фаска 4V</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronostar/De%20facto/D4842%20%D0%94%D1%83%D0%B1%20%D0%9D%D0%BE%D0%B1%D0%B8%D0%BB%D0%B8%D1%81.jpg</Data></Cell></Row><Row ss:Index="35" ss:Height="61.1433"><Cell><Data ss:Type="Number">10037</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;De facto (33 кл.)</Data></Cell><Cell><Data ss:Type="String">D4846 Дуб Орион</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String"> </Data></Cell><Cell><Data ss:Type="Number">25.5</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х12
+Фаска 4V</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronostar/De%20facto/D4846%20%D0%94%D1%83%D0%B1%20%D0%9E%D1%80%D0%B8%D0%BE%D0%BD.jpg</Data></Cell></Row><Row ss:Height="108.9638"><Cell><Data ss:Type="Number">10038</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Synchro-Tec (33 кл.)
+</Data></Cell><Cell><Data ss:Type="String">2999 Дуб Перитус</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">16.9</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: ER синхронная структура
+Фаска 4V
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Synchro-Tec/2999%20%D0%94%D1%83%D0%B1%20%D0%9F%D0%B5%D1%80%D0%B8%D1%82%D1%83%D1%81.jpg</Data></Cell></Row><Row ss:Height="108.9638"><Cell><Data ss:Type="Number">10039</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Synchro-Tec (33 кл.)
+</Data></Cell><Cell><Data ss:Type="String"> 2994 Дуб Мемория</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв</Data></Cell><Cell><Data ss:Type="Number">16.9</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: ER синхронная структура
+Фаска 4V
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Synchro-Tec/2994%20%D0%94%D1%83%D0%B1%20%D0%9C%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D1%8F.jpg</Data></Cell></Row><Row ss:Height="108.9638"><Cell><Data ss:Type="Number">10040</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Synchro-Tec (33 кл.)</Data></Cell><Cell><Data ss:Type="String">2802 Дуб Шоко</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">16.9</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: ER синхронная структура
+Фаска 4V
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Synchro-Tec/2802%20%D0%94%D1%83%D0%B1%20%D0%A8%D0%BE%D0%BA%D0%BE.jpg</Data></Cell></Row><Row ss:Height="108.9638"><Cell><Data ss:Type="Number">10041</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Synchro-Tec (33 кл.)</Data></Cell><Cell><Data ss:Type="String">2801 Дуб Инженариус</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">16.9</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: ER синхронная структура
+Фаска 4V
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Synchro-Tec/2801%20%D0%94%D1%83%D0%B1%20%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D1%81.jpg</Data></Cell></Row><Row ss:Height="108.9638"><Cell><Data ss:Type="Number">10042</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Synchro-Tec (33 кл.)</Data></Cell><Cell><Data ss:Type="String">2800 Дуб Регуляр</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">16.9</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: ER синхронная структура
+Фаска 4V
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Synchro-Tec/2800%20%D0%94%D1%83%D0%B1%20%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80.jpg</Data></Cell></Row><Row ss:Height="108.9638"><Cell><Data ss:Type="Number">10043</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Kronostar&gt;Synchro-Tec (33 кл.)</Data></Cell><Cell><Data ss:Type="String">1556 Дуб Цертус</Data></Cell><Cell><Data ss:Type="String">Kronostar (Россия)</Data></Cell><Cell><Data ss:Type="String"> м.кв.</Data></Cell><Cell><Data ss:Type="Number">16.9</Data></Cell><Cell><Data ss:Type="String">Характеристики покрытия:
+Класс истираемости: АС5
+Класс применения: 33
+Размер панели, мм: 1380х193х8
+Количество в упаковке, шт: 8
+Поверхность: ER синхронная структура
+Фаска 4V
+Площадь пачки, м2 2,1304
+Метров квадратных в паллете: 127,843</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Synchro-Tec/1556%20%D0%94%D1%83%D0%B1%20%D0%A6%D0%B5%D1%80%D1%82%D1%83%D1%81.jpg</Data></Cell></Row><Row ss:Index="42" ss:Height="85.0394"><Cell><Data ss:Type="Number">10044</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">K042 Арт Воркс</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/images/K042%20%D0%90%D1%80%D1%82%20%D0%92%D0%BE%D1%80%D0%BA%D1%81%20600.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10045</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">K040 Урбан Дрифтвуд</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/images/K040%20%D0%A3%D1%80%D0%B1%D0%B0%D0%BD%20%D0%94%D1%80%D0%B8%D1%84%D1%82%D0%B2%D1%83%D0%B4%20600.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10046</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">Kronospan РБ К039 Сильверсайд </Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String"> м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/images/K039%20%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%B9%D0%B4%20%D0%94%D1%80%D0%B8%D1%84%D1%82%D0%B2%D1%83%D0%B4%20600.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10047</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">К034 Ясень Ривендел</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/images/K034%20%D0%AF%D1%81%D0%B5%D0%BD%D1%8C%20%D0%A0%D0%B8%D0%B2%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%20600.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10048</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8722 Дуб Монреаль</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8722dubmonreal.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10049</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8721 Дуб Маранелло</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8721dubmaranello.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10050</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">9748 Дуб Натуральный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/dubnatur_9748.jpg</Data></Cell></Row><Row ss:Index="49" ss:Height="85.0394"><Cell><Data ss:Type="Number">10051</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8711 Береза Тундра</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/_thumb_/8711%20Bereza%20Tundra.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10052</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8222 Дуб Массив</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/_thumb_/8222%20Dub%20Massiv.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10053</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">4280 Дуб Шведский </Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/_thumb_/4280%20Dub%20SHvedskij%20Kantri.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10054</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">4289 Каштан Серый</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/_thumb_/4289%20Kashtan%20Seryj.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10055</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">4282 Дуб Рейкьявик</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/4282.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10056</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">5529 Дуб Орегон</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/oregon.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10057</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8766 Венге Киото</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/venge.jpg</Data></Cell></Row><Row ss:Index="56" ss:Height="85.0394"><Cell><Data ss:Type="Number">10058</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">5936 Дуб Лейкленд</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/5936.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10059</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">9195 Дуб Рустикальный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/-9195-600x600.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10060</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">9170 Дуб Беленый</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/9170.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10061</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">709 Дуб Античный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/709.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10062</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8635 Дуб Северный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8635.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10063</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8731 Дуб Коттедж</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8731.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10064</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">7637 Клен Кюрли</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/7637.jpg</Data></Cell></Row><Row ss:Index="63" ss:Height="85.0394"><Cell><Data ss:Type="Number">10065</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">3351 Дуб Каньон </Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/3351.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10066</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8726 Дуб Альзас</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8726.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10067</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8723 Дуб Меринос</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8723.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10068</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8642 Дуб Каньон Белый</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8642.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10069</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8279 Дуб Пастельный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8279.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10070</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8075 Ясень Белый</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8075.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10071</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">8072 Дуб Ностальгия</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8072.gif</Data></Cell></Row><Row ss:Index="70" ss:Height="85.0394"><Cell><Data ss:Type="Number">10072</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">5340 Дуб Каталония</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/5340.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10073</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">5339 Дуб Старинный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/5339.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10074</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">5239 Дуб Тайгер</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/5239.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10075</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">5236 Дуб Гренландский</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/5236.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10076</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Castello Classic</Data></Cell><Cell><Data ss:Type="String">1665 Дуб Роял</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">11.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения 32
+Класс истираемости АС4
+Размер панели, мм 1285x192x8
+Поверхность антибактериальное покрытие А.В.С.
+Фаска нет
+Теплый пол да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/1665.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10077</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">8464 Сосна белая</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronospan/8464%20sosna%20belaya.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10078</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic
+</Data></Cell><Cell><Data ss:Type="String">K002 Дуб серый крафт</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronospan/k002%20dub%20seriy%20kraft.jpg</Data></Cell></Row><Row ss:Index="77" ss:Height="97.0016"><Cell><Data ss:Type="Number">10079</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">K001 Дуб белый крафт</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/Kronospan/k001%20dub%20beliy%20kraft.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10080</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">4279 Дуб Провинциальный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/Forte/files-Dekore4279vc4cmykDecorlarge.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10081</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">4278 Дуб Корона</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/Forte/files-Dekore4278vc4cmykDecorlarge.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10082</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">4277 Дуб Меридиан</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/Forte/files-Dekore4277vc4cmykDecorlarge.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10083</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">8262 Дуб Барди</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/Forte/files-Dekore8262Decorlarge-1.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10084</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">8168 Дуб Табак</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/Forte/8168-2.jpg</Data></Cell></Row><Row ss:Height="97.0016"><Cell><Data ss:Type="Number">10085</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">5985 Дуб Шервуд</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/Forte/files-Dekore5985v2Decorlarge.jpg</Data></Cell></Row><Row ss:Index="84" ss:Height="97.0016"><Cell><Data ss:Type="Number">10086</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Forte classic</Data></Cell><Cell><Data ss:Type="String">4283 Дуб Льняной</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">12.5</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения- 33
+Класс истираемости- АС5
+Размер панели, мм -1285x192x8
+Поверхность антибактериальное покрытие -А.В.С.
+Система замкового соединения: TwinClic
+Фаска -нет
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/Forte/files-Dekore4283cmykDecorlarge.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10087</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic
+</Data></Cell><Cell><Data ss:Type="String">8633 Дуб Шейр</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/8633dubsheir.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10088</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">8630 Дуб Аспен</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/8330dubaspen.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10089</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">8573 Дуб Харлех</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/8573dubharleh.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10090</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">8575 Дуб Светлый</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/8575dubsvetlij.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10091</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">8634 Дуб Брашированый Белен</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/8634dubbrash.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10092</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">8632 Дуб Колониальный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/8632dubkolon.jpg</Data></Cell></Row><Row ss:Index="91" ss:Height="85.0394"><Cell><Data ss:Type="Number">10093</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">8631 Дуб Касл</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/8631dubkasl.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10094</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">5542 Дуб Боулдор</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/5542dubboulder.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10095</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">5541 Дуб Бедрок</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/5541dubbedrok.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10096</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">5540 Дуб Валли</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/5540dubvalli.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10097</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Super Natural Classic</Data></Cell><Cell><Data ss:Type="String">8576 Дуб Лофт</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">20.7</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/Super%20Natural%20Classic/8576dubloft.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10098</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Variostep classic</Data></Cell><Cell><Data ss:Type="String">8169 Дуб Польский</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">18.9</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8169dubpolskij.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10099</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Variostep classic</Data></Cell><Cell><Data ss:Type="String">8199 Дуб Альпийский</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">18.9</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/8199dubalp.jpg</Data></Cell></Row><Row ss:Index="98" ss:Height="85.0394"><Cell><Data ss:Type="Number">10100</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Variostep classic</Data></Cell><Cell><Data ss:Type="String">4274 Дуб Природный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">18.9</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/_thumb_/%D0%94%D1%83%D0%B1%20%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10101</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Variostep classic</Data></Cell><Cell><Data ss:Type="String">4274 Дуб модена</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">18.9</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/_thumb_/%D0%94%D1%83%D0%B1%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BD%D0%B0.jpg</Data></Cell></Row><Row ss:Height="85.0394"><Cell><Data ss:Type="Number">10102</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Krono Original® Kronospan РБ&gt;Variostep classic</Data></Cell><Cell><Data ss:Type="String">5303 Дуб Снежный</Data></Cell><Cell><Data ss:Type="String">Kronospan (Беларусь)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">18.9</Data></Cell><Cell><Data ss:Type="String">ХАРАКТЕРИСТИКИ
+Класс применения-32
+Класс истираемости- АС4
+Размер панели, мм- 1285x192x8
+Поверхность антибактериальное покрытие- А.В.С.
+Фаска- 4V
+Теплый пол -да</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/%D0%9A%D1%80%D0%BE%D0%BD%D0%BE%D1%88%D0%BF%D0%B0%D0%BD/5303_kronospan_dub_snejnyi.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10103</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)
+</Data></Cell><Cell><Data ss:Type="String">8370212 Дуб дымчатый темный</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">29</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/Tarkett/8370212.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10104</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">8370413 Дуб Натуральный Брокелон</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">29</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/Tarkett/8370413_oak_brociliand.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10105</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">8370121 Seagrass Zen</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">29</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/8370121%20Seagrass%20Zen.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10106</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">42033395 Tlock Heritage Whitened Oak</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">31.1</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/photo_tovar/Tarkett/42033395.jpg</Data></Cell></Row><Row ss:Index="105" ss:Height="73.1055"><Cell><Data ss:Type="Number">10107</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">4203396 Contrasting Pinc</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">31.1</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/4203396%20Contrasting%20Pine.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10108</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">42033293 Haywood Oak Mocha</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">31.1</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/42033293%20HaywoodOakMocha.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10109</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">42033157 Linen Wood</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">31.1</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/42033157%20Linen%20Wood.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10110</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">42033378 Supreme Natural Oak</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">31.1</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/42033378%20Supreme%20Natural%20Oak.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10111</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">42033373 Natural Oak 4v</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">31.1</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/42033373%20Natural%20Oak%204v.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10112</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">42033379 Supreme White Oak</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">31.1</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/42033379%20Supreme%20White%20Oak.jpg</Data></Cell></Row><Row ss:Height="73.1055"><Cell><Data ss:Type="Number">10113</Data></Cell><Cell><Data ss:Type="String">Ламинированные полы&gt;Tarkett&gt;Tornado (Германия)</Data></Cell><Cell><Data ss:Type="String">42033301 Oak Latte 4v</Data></Cell><Cell><Data ss:Type="String">Tarkett (Германия)</Data></Cell><Cell><Data ss:Type="String">м.кв.</Data></Cell><Cell><Data ss:Type="Number">31.1</Data></Cell><Cell><Data ss:Type="String">Класс истираемости: АС4
+Класс применения: 32
+Размер панели, мм: 1292х194х8
+Количество в упаковке, шт: 8
+Площадь для упаковки, м2: 2,005
+Доп. сведения: Структура - древесные поры</Data></Cell><Cell><Data ss:Type="String">http://www.santrade.by/prod_images/42033301%20Oak%20latte%204v.JPG</Data></Cell></Row></Table><x:WorksheetOptions/></ss:Worksheet></Workbook>
