@@ -1585,8 +1585,8 @@ if ( ! function_exists( 'woocommerce_product_subcategories' ) ) {
 		global $wp_query;
 
 		$defaults = array(
-			'before'        => '',
-			'after'         => '',
+			'before'        => '<div class="subCategories">',
+			'after'         => '<div style="clear:both" ></div></div>',
 			'force_display' => false
 		);
 

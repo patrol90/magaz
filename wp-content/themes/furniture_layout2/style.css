@@ -148,3 +148,5 @@ h3.entry-title a:hover,
 .site-footer .footer-menu-links a:hover{color: #c2a773;}
 .sidebar-category  li > ul li a:hover:before{ color:#c2a773;}
 #masthead > div > div > div.header-top.navigation-fix > div > div.header-right > div.topbar-link > div > div > li > a {display:none;}
+.subCategories {  border: 1px solid #e6e6e6;margin-bottom:2em;}
+.subCategories .product-category h3 {min-height:2em;}
