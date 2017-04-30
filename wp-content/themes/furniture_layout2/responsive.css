@@ -21,7 +21,13 @@
 .categoty-link-cms .vc_col-sm-3{  margin: 0 0 18px;}
 }
 @media only screen and (min-width: 600px){
-    .subCategories {display: flex;
-    justify-content: center;
-    align-items: center;}
+    	.subCategories {
+		display: flex;
+   		justify-content: center;
+    		align-items: center;
+    		flex-wrap:wrap;
+	}
+	.woocommerce ul.products li.product.product-category a img, .woocommerce-page ul.products li.product.product-category a img{
+		max-height:150px;
+	}
 }

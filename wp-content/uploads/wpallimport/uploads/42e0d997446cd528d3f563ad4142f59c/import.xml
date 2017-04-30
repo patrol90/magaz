@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<sku><![CDATA[10114]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>серия Simple>Гибкая черепица коллекции «Тетрис»]]></category>
+		<name><![CDATA[Тетрис]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[8,34]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://docke.com.by/wp-content/uploads/2017/01/tetris-1.jpg,http://docke.com.by/wp-content/uploads/2017/01/tetris-2.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10115]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>серия Simple>Гибкая черепица коллекции «Кольчуга»]]></category>
+		<name><![CDATA[кольчуга]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[9,96]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://docke.com.by/wp-content/uploads/2017/01/kolchuga-1.jpg,http://docke.com.by/wp-content/uploads/2017/01/kolchuga-2.jpg,http://docke.com.by/wp-content/uploads/2017/01/kolchuga-3.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10116]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>серия Simple>Гибкая черепица коллекции «Крона»]]></category>
+		<name><![CDATA[Крона]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[10,06]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://docke.com.by/wp-content/uploads/2017/01/krona-3.jpg,http://docke.com.by/wp-content/uploads/2017/01/krona-2.jpg,http://docke.com.by/wp-content/uploads/2017/01/krona-1.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10117]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>серия Simple>Гибкая черепица коллекции «Сота»]]></category>
+		<name><![CDATA[Сота]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[8,1]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://docke.com.by/wp-content/uploads/2017/01/sota-1.jpg,http://docke.com.by/wp-content/uploads/2017/01/sota-2.jpg,http://docke.com.by/wp-content/uploads/2017/01/sota-3.jpg,http://docke.com.by/wp-content/uploads/2017/01/sota-4.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10118]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Серия Gold>ГИБКАЯ ЧЕРЕПИЦА КОЛЛЕКЦИИ «ЛЬЕЖ»]]></category>
+		<name><![CDATA[«ЛЬЕЖ»]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[13,46]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://docke.com.by/wp-content/uploads/2016/05/lezh-barbaris.jpg,http://docke.com.by/wp-content/uploads/2016/05/lezh-grilyazh.jpg,http://docke.com.by/wp-content/uploads/2016/05/lezh-iris.jpg,http://docke.com.by/wp-content/uploads/2016/05/lezh-izum.jpg,]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10119]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Серия Gold>ГИБКАЯ ЧЕРЕПИЦА КОЛЛЕКЦИИ «НИЦЦА»]]></category>
+		<name><![CDATA[ «НИЦЦА»]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[11,92]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10120]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Серия Gold>ГИБКАЯ ЧЕРЕПИЦА КОЛЛЕКЦИИ «ЖЕНЕВА»]]></category>
+		<name><![CDATA[«ЖЕНЕВА»]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[14,62]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10121]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Серия Gold>ГИБКАЯ ЧЕРЕПИЦА КОЛЛЕКЦИИ «ГЕНУЯ»]]></category>
+		<name><![CDATA[«ГЕНУЯ»]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[12,14]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10122]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Серия Gold>ГИБКАЯ ЧЕРЕПИЦА КОЛЛЕКЦИИ «ЦЮРИХ»]]></category>
+		<name><![CDATA[«ЦЮРИХ»]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[13,46]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10123]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Серия Gold>ГИБКАЯ ЧЕРЕПИЦА КОЛЛЕКЦИИ «ГРАНАДА»]]></category>
+		<name><![CDATA[«ГРАНАДА»]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[12,14]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10124]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Серия Gold>ГИБКАЯ ЧЕРЕПИЦА КОЛЛЕКЦИИ «ШЕФФИЛД»]]></category>
+		<name><![CDATA[«ШЕФФИЛД»]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[11,92]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10125]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Серия Gold>ГИБКАЯ ЧЕРЕПИЦА КОЛЛЕКЦИИ «КЁЛЬН»]]></category>
+		<name><![CDATA[«КЁЛЬН»]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[11,92]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10126]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Коньково-карнизная черепица]]></category>
+		<name><![CDATA[Все цвета]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[12,49]]></price>
+		<description><![CDATA[Длина - 1000 мм
+Ширина - 333 мм
+Толщина - 3,5 ± 0,5 мм
+Количество в упаковке - 22
+Плошадь покрытия 1 упаковкой - 3,586 кв.м
+Упаковка - Термоусадочная ПЭ-пленка
+Вес упаковки - 31,388 кг]]></description>
+		<photo><![CDATA[http://docke.com.by/upload/images/karniznaya-cherepica.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10127]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Коньково-карнизная черепица]]></category>
+		<name><![CDATA[Чернослив]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[13,58]]></price>
+		<description><![CDATA[Длина - 1000 мм]]></description>
+		<photo><![CDATA[http://docke.com.by/upload/images/karniznaya-cherepica.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10128]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Ендовый ковер]]></category>
+		<name><![CDATA[Все цвета]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[9,61]]></price>
+		<description><![CDATA[Цвет: коричневый, красный, медный, зелёный, графит. Длина - 10 м
+Ширина - 1 м
+Толщина - 3,5 мм
+Упаковка - Рулон
+Вес - 4 кг/кв.м]]></description>
+		<photo><![CDATA[http://docke.com.by/upload/images/endovi-kover.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10129]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Ендовый ковер]]></category>
+		<name><![CDATA[Синий]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[10,42]]></price>
+		<description><![CDATA[Цвет: синий
+Ширина - 1 м
+Толщина - 3,5 мм
+Упаковка - Рулон
+Вес - 4 кг/кв.м]]></description>
+		<photo><![CDATA[http://docke.com.by/upload/images/endovi-kover.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10130]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Подкладочный ковер D-Basis Standard 1?15]]></category>
+		<name><![CDATA[основа - стеклохолст]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[2,03]]></price>
+		<description><![CDATA[Упаковка Рулоны по 15 м
+Основа Стеклохолст
+Вес 1,9 кг/м2]]></description>
+		<photo><![CDATA[http://docke.com.by/upload/images/d-basis-standart.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10131]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Подкладочный ковер D-Basis Standard Plus 1?15]]></category>
+		<name><![CDATA[основа - стеклохолст + клеевая полоса]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[2,14]]></price>
+		<description><![CDATA[Упаковка Рулоны по 15 м
+Основа Стеклохолст
+Вес 2 кг/м2]]></description>
+		<photo><![CDATA[http://docke.com.by/wp-content/uploads/2015/04/d-basis-standart-plus.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10132]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Подкладочный ковер D-Basis Comfort Glass 1?15]]></category>
+		<name><![CDATA[основа - стеклохолст + SBS модифицированный битум]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[2,78]]></price>
+		<description><![CDATA[Упаковка Рулоны по 15 м
+Основа Стеклохолст
+Вес 0,8 кг/м2]]></description>
+		<photo><![CDATA[http://docke.com.by/wp-content/uploads/2015/04/d-basis-comfort-glass.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10133]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Подкладочный ковер D-Basis Comfort Glass 1?30]]></category>
+		<name><![CDATA[основа - стеклохолст + SBS модифицированный битум]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[2,78]]></price>
+		<description><![CDATA[Упаковка Рулоны по 30 м
+Основа Стеклохолст
+Вес 0,8 кг/м2]]></description>
+		<photo><![CDATA[http://docke.com.by/wp-content/uploads/2015/04/d-basis-comfort-glass.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10134]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>Подкладочный ковер D-Basis Comfort 1?40]]></category>
+		<name><![CDATA[основа - стеклохолст + SBS модифицированный битум+ полиэфир]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[м.кв.]]></edizm>
+		<price><![CDATA[3,57]]></price>
+		<description><![CDATA[Упаковка Рулоны по 40 м
+Основа Полиэстер
+Вес 0,5 кг/м2]]></description>
+		<photo><![CDATA[http://docke.com.by/upload/images/d-basis-comfort.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10135]]></sku>
+		<category><![CDATA[Гибкая черепица>Docke>]]></category>
+		<name><![CDATA[ПОРОГИ 0.9  А30Л]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[шт.]]></edizm>
+		<price><![CDATA[2,44]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/15.jpg,http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/9.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10136]]></sku>
+		<category><![CDATA[Алюминиевые порожки]]></category>
+		<name><![CDATA[ПОРОГИ 0.9  А39 КД]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[шт.]]></edizm>
+		<price><![CDATA[2,87]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/15.jpg,http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/9.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10137]]></sku>
+		<category><![CDATA[Алюминиевые порожки]]></category>
+		<name><![CDATA[ПОРОГИ 0.9  А39 Л]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[шт.]]></edizm>
+		<price><![CDATA[3,31]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/15.jpg,http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/9.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10138]]></sku>
+		<category><![CDATA[Алюминиевые порожки]]></category>
+		<name><![CDATA[ПОРОГИ 0.9  А4]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[шт.]]></edizm>
+		<price><![CDATA[4,7]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/15.jpg,http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/9.jpg]]></photo>
+	</node>
+	<node>
+		<sku><![CDATA[10140]]></sku>
+		<category><![CDATA[Алюминиевые порожки]]></category>
+		<name><![CDATA[ПОРОГИ 0.9  А45 анод.]]></name>
+		<brand><![CDATA[Docke(Россия)]]></brand>
+		<edizm><![CDATA[шт.]]></edizm>
+		<price><![CDATA[3,8]]></price>
+		<description><![CDATA[]]></description>
+		<photo><![CDATA[http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/15.jpg,http://demos.templatemela.com/woo/WCM02/WCM020038/WP11/wp-content/uploads/2017/02/9.jpg]]></photo>
+	</node>
+</data>

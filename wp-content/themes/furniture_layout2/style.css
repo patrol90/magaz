@@ -149,4 +149,4 @@ h3.entry-title a:hover,
 .sidebar-category  li > ul li a:hover:before{ color:#c2a773;}
 #masthead > div > div > div.header-top.navigation-fix > div > div.header-right > div.topbar-link > div > div > li > a {display:none;}
 .subCategories {  border: 1px solid #e6e6e6;margin-bottom:2em;}
-.subCategories .product-category h3 {min-height:2em;}
+.subCategories .product-category h3 {min-height:2em;color:black;}
